@@ -1,5 +1,5 @@
 # TransformersPaper
-This repo is created for my DS5899 Transformers class paper presentation. Links are provided in-line.
+This repo is created by Clayton Cohn for Vanderbilt University's _DS5899 — Special Topics in Data Science: Transformers_ class paper presentation. Links are provided in-line.
 
 ## Overview (Video)
 
