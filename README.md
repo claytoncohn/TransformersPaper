@@ -23,13 +23,13 @@ Tagging w/ BERT (link to repo)
 
 [BERT Explained](https://medium.com/@samia.khalid/bert-explained-a-complete-guide-with-theory-and-tutorial-3ac9ebc8fa7c)
 
-Illustrated Transformer
+[Illustrated Transformer](https://jalammar.github.io/illustrated-transformer/)
 
-Illustrated BERT
+[Illustrated BERT](https://jalammar.github.io/illustrated-bert/)
 
-BERT Sequence Classification Tutorial
+[BERT Fine-Tuning Tutorial with PyTorch](https://mccormickml.com/2019/07/22/BERT-fine-tuning/)
 
-BERT NER Tutorial
+[Tagging Genes and Proteins with BioBERT](https://towardsdatascience.com/tagging-genes-and-proteins-with-biobert-c7b04fc6eb4f)
 
 [BERT parameters broken down](https://stackoverflow.com/questions/64485777/how-is-the-number-of-parameters-be-calculated-in-bert-model)
 
