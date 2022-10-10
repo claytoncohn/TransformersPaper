@@ -12,6 +12,12 @@ This repo is created by Clayton Cohn for Vanderbilt University's _DS5899 — Spe
 ## Code Demonstration
 
 ## Resource Links
+Illustrated Transformer
+Illustrated BERT
+BERT Sequence Classification Tutorial
+BERT NER Tutorial
+
+## References
 <a id="1">[1]</a> 
 [Vaswani, A., “Attention Is All You Need”, <i>arXiv e-prints</i>, 2017.](https://arxiv.org/abs/1706.03762)
 
