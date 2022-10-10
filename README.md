@@ -13,8 +13,11 @@ This repo is created by Clayton Cohn for Vanderbilt University's _DS5899 — Spe
 
 ## Resource Links
 Illustrated Transformer
+
 Illustrated BERT
+
 BERT Sequence Classification Tutorial
+
 BERT NER Tutorial
 
 ## References
