@@ -3,21 +3,25 @@ This repo is created by Clayton Cohn for Vanderbilt University's _DS5899 — Spe
 
 ## Overview (Video)
 
-Video Link
+Overview and critical analysis [video](https://youtu.be/mp2d08ZDRL8).
 
 ## Presentation Matials
 
-Link to slides
+PowerPoint presentation found [here](https://github.com/claytoncohn/TransformersPaper/blob/main/Overview.pptx).
+
+## Question 1
+
+BERT (and BERT-based models) is largely considered SOTA for many NLU tasks, but do you see any problems (other than the ones I've mentioned) with using BERT and other Transformer models in practice? 
+
+## Question 2
+
+For my research, I am working on building a pedagogical, multimodal, conversational AI agent for collaborative learning environments. Do you have any ideas for an architecture, using BERT or other Transformer models, that might be conducive to this type of task?
+
+## Code Demonstration
 
 Sequence Classification w/ BERT (link to repo)
 
 Tagging w/ BERT (link to repo)
-
-## Question 1
-
-## Question 2
-
-## Code Demonstration
 
 ## Resource Links
 
