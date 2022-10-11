@@ -59,3 +59,12 @@ Tagging w/ BERT (link to repo)
 
 <a id="1">[1]</a> 
 [Liu, Y., “RoBERTa: A Robustly Optimized BERT Pretraining Approach”, <i>arXiv e-prints</i>, 2019.](https://arxiv.org/abs/1907.11692)
+
+<a id="1">[1]</a> 
+[EchoCache, and Chandan. <i>“How Is the Number of Parameters Be Calculated in Bert Model?”</i> How Is the Number of Parameters Be Calculated in BERT Model?, Stack Overflow, 22 Oct. 2020, https://stackoverflow.com/questions/64485777/how-is-the-number-of-parameters-be-calculated-in-bert-model.](https://stackoverflow.com/questions/64485777/how-is-the-number-of-parameters-be-calculated-in-bert-model)
+
+<a id="1">[1]</a> 
+[McCormick, Chris, and Nick Ryan. <“BERT Fine-Tuning Tutorial with PyTorch.” <i>BERT Fine-Tuning Tutorial with PyTorch · Chris McCormick</i>, Chris McCormick, 22 July 2019, https://mccormickml.com/2019/07/22/BERT-fine-tuning/.](https://mccormickml.com/2019/07/22/BERT-fine-tuning/)
+
+<a id="1">[1]</a> 
+[Perkins, Drew. “Tagging Genes and Proteins with BioBERT.” <i>Medium</i>, Towards Data Science, 27 Aug. 2020, https://towardsdatascience.com/tagging-genes-and-proteins-with-biobert-c7b04fc6eb4f.](https://towardsdatascience.com/tagging-genes-and-proteins-with-biobert-c7b04fc6eb4f)
