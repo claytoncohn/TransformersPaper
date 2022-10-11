@@ -19,9 +19,7 @@ For my research, I am working on building a pedagogical, multimodal, conversatio
 
 ## Code Demonstration
 
-Sequence Classification w/ BERT (link to repo)
-
-Tagging w/ BERT (link to repo)
+[Tagging Scientific Concepts for Automated Formative Assessment Evaluation w/ BERT](https://github.com/claytoncohn/TransformersPaper/blob/main/StudentEssaysConceptTagging.ipynb)
 
 ## Resource Links
 
