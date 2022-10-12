@@ -9,6 +9,14 @@ Overview and critical analysis [video](https://youtu.be/mp2d08ZDRL8).
 
 PowerPoint presentation found [here](https://github.com/claytoncohn/TransformersPaper/blob/main/Overview.pptx).
 
+## Code Demonstration
+
+[Tagging Scientific Concepts for Automated Formative Assessment Evaluation w/ BERT](https://github.com/claytoncohn/TransformersPaper/blob/main/StudentEssaysConceptTagging.ipynb)
+
+## Questions?
+
+Does anyone have any questions?
+
 ## Question 1
 
 BERT (and BERT-based models) is largely considered SOTA for many NLU tasks, but do you see any problems (other than the ones I've mentioned) with using BERT and other Transformer models in practice? 
@@ -16,10 +24,6 @@ BERT (and BERT-based models) is largely considered SOTA for many NLU tasks, but 
 ## Question 2
 
 For my research, I am working on building a pedagogical, multimodal, conversational AI agent for collaborative learning environments. Do you have any ideas for an architecture, using BERT or other Transformer models, that might be conducive to this type of task?
-
-## Code Demonstration
-
-[Tagging Scientific Concepts for Automated Formative Assessment Evaluation w/ BERT](https://github.com/claytoncohn/TransformersPaper/blob/main/StudentEssaysConceptTagging.ipynb)
 
 ## Resource Links
 
@@ -66,5 +70,3 @@ For my research, I am working on building a pedagogical, multimodal, conversatio
 
 <a id="1">[9]</a> 
 [Perkins, Drew. “Tagging Genes and Proteins with BioBERT.” <i>Medium</i>, Towards Data Science, 27 Aug. 2020, https://towardsdatascience.com/tagging-genes-and-proteins-with-biobert-c7b04fc6eb4f.](https://towardsdatascience.com/tagging-genes-and-proteins-with-biobert-c7b04fc6eb4f)
-
-# QUESTIONS?
