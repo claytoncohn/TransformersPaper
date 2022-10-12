@@ -67,4 +67,4 @@ For my research, I am working on building a pedagogical, multimodal, conversatio
 <a id="1">[9]</a> 
 [Perkins, Drew. “Tagging Genes and Proteins with BioBERT.” <i>Medium</i>, Towards Data Science, 27 Aug. 2020, https://towardsdatascience.com/tagging-genes-and-proteins-with-biobert-c7b04fc6eb4f.](https://towardsdatascience.com/tagging-genes-and-proteins-with-biobert-c7b04fc6eb4f)
 
-# Questions?
+# QUESTIONS?
